@@ -1,1 +1,1 @@
-# CTD Machine Learning Course - Summer 2025
+# Machine Learning - Winter 2026
